@@ -32,6 +32,6 @@ Here's what we learned:
 - ```cargo build```: build the code using a debug target by default
 - ```cargo build --release```: build an optimized target for release
 - ```cargo run```: run the debug executable, doing a build if necessary
-````cargo check```: a quick build but no executable is made.  Use this to check any interim development.
+- ```cargo check```: a quick build but no executable is made.  Use this to check any interim development.
 
 What I'm really looking forward to is learning about ```cargo test``` that executes tests you define.  This is a great way to develop by first defining functional tests and coding underneath as the project progresses.
